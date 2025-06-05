@@ -70,9 +70,10 @@ Pine-City-Zoo-App/
 
 ## 📸 Screenshots
 
-[animals](https://github.com/user-attachments/assets/6fd8471c-cc21-4879-8933-52d182fd1cfa)
-[weather](https://github.com/user-attachments/assets/6e48c9e8-3856-43ae-aeeb-74a5f39451be)
-[feedback](https://github.com/user-attachments/assets/219f17ad-70ce-4120-87d5-aed496eed615)
+![animals](https://github.com/user-attachments/assets/3bdbd460-17e0-4997-8e7d-663e801931be)
+![weather](https://github.com/user-attachments/assets/25439fe9-86b9-49a1-b4a6-a2d02cf27d84)
+![feedback](https://github.com/user-attachments/assets/ff585ac4-b1cd-4df2-9c8b-58206ab3e6d8)
+
 
 ---
 
